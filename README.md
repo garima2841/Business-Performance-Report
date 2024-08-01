@@ -20,7 +20,8 @@ Compares performance against set targets for orders, revenue, and profit.
 The report also features:
 A side navigation bar with filters, allowing users to customize their view and focus on specific data segments.
 Drilldown capabilities to explore data at multiple levels of detail, providing deeper insights into specific areas of interest.
-This tool is designed to enhance understanding of business dynamics and support informed strategic decision-making.
+T![ad-images-0](https://github.com/user-attachments/assets/6b33c792-7aa3-4871-9bf0-b633bd38fa21)
+his tool is designed to enhance understanding of business dynamics and support informed strategic decision-making.
 
 #BusinessAnalytics #PowerBI #DataVisualization #BusinessIntelligence #PerformanceReport
 
